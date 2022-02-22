@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <h3>
 Programming Languages I work with:sunglasses: <br>
 </h3>
-<img align="left" title="Python" alt="python" width="26px" src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg"/>
+<img align="left" title="Python" alt="python" width="28px" src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg"/>
 <img align="left" title="C" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
 <img align="left" title="JavaScript" alt="JavaScript"width-="26px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/710px-Javascript_badge.svg.png"/>
-<img align='left' title="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">  
+<img align='left' title="HTML" width="26px"height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">  
 <br>
 
 
