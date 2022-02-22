@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h3>
 Programming Languages I work with:sunglasses: <br>
 </h3>
-<img align="left" title="Python" alt="python"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-6c10oh%2F&psig=AOvVaw112CKqjgeYBOCog6V_5BCI&ust=1645639079881000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjw-bnxk_YCFQAAAAAdAAAAABAD"/>
+<img align="left" title="Python" alt="python" width="26px" src="https://mpng.subpng.com/20180811/pul/kisspng-python-general-purpose-programming-language-comput-python-programming-language-symphony-solution-5b6ee0c863a5a1.6306397415339931604082.jpg"/>
 <img align="left" title="C" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img align="left" title="JavaScript" alt="JavaScript"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/710px-Javascript_badge.svg.png"/>
+<img align="left" title="JavaScript" alt="JavaScript"width-="26px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/710px-Javascript_badge.svg.png"/>
 <img align='left' title="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">  
 <br>
 
