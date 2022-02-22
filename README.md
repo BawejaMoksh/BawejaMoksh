@@ -22,7 +22,7 @@ Programming Languages I work with:sunglasses: <br>
 </h3>
 <img align="left" title="Python" alt="python"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-6c10oh%2F&psig=AOvVaw112CKqjgeYBOCog6V_5BCI&ust=1645639079881000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjw-bnxk_YCFQAAAAAdAAAAABAD"/>
 <img align="left" title="C" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img align="left" title="JavaScript" alt="JavaScript"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AUnofficial_JavaScript_logo.svg&psig=AOvVaw1wOwJYu1EoZGGSIoCf6IU5&ust=1645639166276000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDS8OPxk_YCFQAAAAAdAAAAABAD"/>
+<img align="left" title="JavaScript" alt="JavaScript"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/710px-Javascript_badge.svg.png"/>
 <img align='left' title="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png">  
 <br>
 
