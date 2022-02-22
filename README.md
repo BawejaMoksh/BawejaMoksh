@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**BawejaMoksh/BawejaMoksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BawejaMoksh/BawejaMoksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--->
 
 Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moksh-baweja-84a353227/)
