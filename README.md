@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <h3>
 Programming Languages I work with:sunglasses: <br>
 </h3>
-<img align="left" title="Python" alt="python" width="26px" src="./logos/python.svg" />
-<img align="left" title="C" alt="C" width="26px" src="./logos/c.svg" />
-<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="./logos/javascript.svg" />
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="./logos/html5.svg" />
+<img align="left" title="Python" alt="python" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&psig=AOvVaw2kcyS-7QGiq8-s2L1f7HRW&ust=1645629614808000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMitlZjOk_YCFQAAAAAdAAAAABAD"/>
+<img align="left" title="C" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<img align="left" title="JavaScript" alt="JavaScript" width="26px" src="![image](https://user-images.githubusercontent.com/91950946/155164220-41d010a9-afcd-4416-b528-e03bd3e2d9a5.png)
+" />
+[1200px-HTML5_logo_and_wordmark svg](https://user-images.githubusercontent.com/91950946/155164099-dc9641da-962c-4e11-9a3a-e5a68b39071c.png)
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="./logos/css3.svg" />
   
 <br>
