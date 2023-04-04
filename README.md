@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on developing my skills in various fields
-- 🌱 I’m currently learning HTML CSS JS Python
+- 🌱 I’m currently learning ReactJs ThreeJs Python 
 - 👯 I’m looking to collaborate on Full stack Development
 - 🤔 I’m looking for help with Computer Programming and DSA
 - 💬 Ask me about Cricket and Football 
