@@ -1,4 +1,4 @@
-![image](https://github.com/BawejaMoksh/BawejaMoksh/assets/91950946/6080a6cb-4ba4-4fcf-83b5-515688379661)### Hi there 👋
+![image](https://github.com/BawejaMoksh/BawejaMoksh/assets/91950946/6080a6cb-4ba4-4fcf-83b5-515688379661) Hi there 👋
 ![](https://komarev.com/ghpvc/?username=BawejaMoksh&color=blueviolet&style=plastic)
 <br>
 <img align="right" title="hi" alt="hi" src="https://c.tenor.com/OcM1uqgAXagAAAAC/looks-into-the-camera-like-the-office-the-office.gif">
@@ -27,10 +27,9 @@ Programming Languages I work with:sunglasses: <br>
 <img align="left" title="Python" alt="python" width="28px" height="26px"src="https://banner2.cleanpng.com/20180715/uwc/kisspng-python-django-scikit-learn-javascript-programming-support-vector-machine-5b4bda1d9d21d6.4676602015316976936436.jpg"/>
 <img align="left" title="Tensorflow" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img align="left" title="Scikit-learn" alt="Scikit-learn"width-="26px"height="26px"  src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png"/>
-<img align='left' title="Dask" width="26px"height="26px" src="https://seeklogo.com/images/D/dask-logo-E2158E0CA9-seeklogo.com.png">  
 <img align="left" title="Tableau" width="26px" height="26px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png">
 <img align="left" title="SQL" width="26px" height="26px" src="https://w7.pngwing.com/pngs/525/959/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-cloud-computing-text-trademark-logo.png">
-<img align="left" title="Apache Spark" width="26px" height="26px" src="https://miro.medium.com/v2/resize:fit:800/1*qn2gItW3lIvbDtrKlQgtww.jpeg">
+<img align="left" title="ApacheSpark" width="26px" height="26px" src="https://miro.medium.com/v2/resize:fit:800/1*qn2gItW3lIvbDtrKlQgtww.jpeg">
 <img align="left" title="Docker" width="26px" height="26px" src="https://w7.pngwing.com/pngs/219/411/png-transparent-docker-logo-kubernetes-microservices-cloud-computing-dockers-logo-text-logo-cloud-computing.png">
 <img align="left" title="GCP" width="26px" height="26px" src="https://www.freecodecamp.org/news/content/images/2020/10/gcp.png">
 
