@@ -1,4 +1,4 @@
-![image](https://github.com/BawejaMoksh/BawejaMoksh/assets/91950946/6080a6cb-4ba4-4fcf-83b5-515688379661) Hi there 👋
+Hi there 👋
 ![](https://komarev.com/ghpvc/?username=BawejaMoksh&color=blueviolet&style=plastic)
 <br>
 <img align="right" title="hi" alt="hi" src="https://c.tenor.com/OcM1uqgAXagAAAAC/looks-into-the-camera-like-the-office-the-office.gif">
